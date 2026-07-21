@@ -15,10 +15,15 @@ Where others see errors, I see possibilities.
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kefito5&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kefito5&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kefito5&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kefito5&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,20 +61,32 @@ Where others see errors, I see possibilities.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kefito5&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kefito5&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🧮 **Calc Pro Web** | Functional web calculator built with HTML, CSS & JavaScript. |
-| 🌐 **Web Negocio** | Business website with responsive design. |
-| 🎮 **Juego Hacker** | JavaScript mini-game inspired by terminal interfaces. |
-| 🧼 **Página Jabones** | Responsive product landing page. |
-| 🔗 **Dashboard de Enlaces** | Personal dashboard for quick navigation. |
+<p align="center">
+
+<a href="https://github.com/kefito5/calc-pro-web">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=calc-pro-web&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/kefito5/web_negocio">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=web_negocio&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/kefito5/juego_hacker">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=juego_hacker&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/kefito5/pagina-jabones">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=pagina-jabones&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
 
 ---
 
