@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I'm Kevin Esquivel
 
-<!--
-**kefito5/kefito5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+Developer from the shadows.
+The Ghost in the Code.
+Where others see errors, I see possibilities.
+```
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student at Universidad Castro Carazo  
+🇨🇷 Costa Rica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Aspiring Full Stack Developer
+- 🌐 Passionate about Web Development
+- 🗄️ Learning Databases and Backend Development
+- 🔐 Interested in Cybersecurity
+- 📚 Always building and learning
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,git,github,vscode,mysql" />
+</p>
+
+## 📈 Current Goals
+
+- 🚀 Build scalable web applications
+- ☕ Master Java & Spring Boot
+- 🗄️ Improve Database Design skills
+- 🔐 Explore Cybersecurity
+- 🌍 Contribute to Open Source
+
+> *"Code is not just written. It is engineered."*
+
+---
+⭐ *Thanks for visiting my profile.*
