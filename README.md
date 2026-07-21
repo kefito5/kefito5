@@ -18,12 +18,12 @@ Where others see errors, I see possibilities.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kefit05&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kefit05&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kefito5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kefito5&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kefit05&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kefito5&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ Where others see errors, I see possibilities.
 - ☕ Currently learning Java & Spring Boot
 - 🗄️ Database Design & SQL
 - 🔐 Interested in Cybersecurity
-- 📚 Always building, learning and improving
+- 📚 Always building, learning, and improving
 
 ---
 
@@ -61,7 +61,7 @@ Where others see errors, I see possibilities.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kefit05&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kefito5&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Where others see errors, I see possibilities.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kefit05&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kefito5&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
