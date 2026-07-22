@@ -1,4 +1,4 @@
-<div align="center">
+<img align="right" src="assets/code.png" width="300" alt="Coding">
 
 # 👋 Hey, I'm Kevin Esquivel
 
@@ -11,16 +11,17 @@ Where others see errors, I see possibilities.
 🎓 **Computer Engineering Student**  
 🇨🇷 **Costa Rica**
 
-</div>
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kefito5&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kefito5&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kefito5&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kefito5&theme=tokyonight&hide_border=true" />
@@ -28,81 +29,73 @@ Where others see errors, I see possibilities.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💻 Aspiring **Full Stack Developer**
 - 🌐 Passionate about **Web Development**
-- ☕ Currently learning **Java & Spring Boot**
+- ☕ Developing skills in **Java & Spring Boot**
 - 🗄️ Interested in **Database Design & SQL**
 - 🔐 Exploring **Cybersecurity**
 - 📚 Always building, learning, and improving
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,github,vscode,linux,idea,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,oracle,git,github,vscode,linux,idea,figma" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+# 🎯 Current Goals
 
 - 🚀 Build scalable web applications
 - ☕ Master Java & Spring Boot
-- 🗄️ Improve Database Design
-- 🔐 Learn Secure Coding
+- 🗄️ Improve database architecture
+- 🔐 Learn secure coding practices
 - 🌍 Contribute to Open Source
 - 💼 Build a strong developer portfolio
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kefito5&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 <p align="center">
 
 <a href="https://github.com/kefito5/calc-pro-web">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=calc-pro-web&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=calc-pro-web&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/kefito5/web_negocio">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=web_negocio&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=web_negocio&theme=tokyonight&hide_border=true" />
 </a>
 
+</p>
+
+<p align="center">
+
 <a href="https://github.com/kefito5/juego_hacker">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=juego_hacker&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=juego_hacker&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/kefito5/pagina-jabones">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=pagina-jabones&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=kefito5&repo=pagina-jabones&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 🏆 GitHub Trophies
 
-- ☕ Java
-- 🌱 Spring Boot
-- 🗄️ Oracle Database
-- 📊 SQL
-- 🔐 Cybersecurity Fundamentals
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kefito5&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 <div align="center">
-
-### 💭 Favorite Quote
 
 > *"Code is not just written. It is engineered."*
 
