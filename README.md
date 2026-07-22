@@ -87,10 +87,12 @@ Where others see errors, I see possibilities.
 
 ---
 
-# 🏆 GitHub Trophies
+# 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kefito5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <a href="https://github.com/kefito5">
+    <img src="https://img.shields.io/badge/GitHub-kefito5-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 ---
 
