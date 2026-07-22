@@ -46,6 +46,10 @@ Where others see errors, I see possibilities.
   <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,github,vscode,linux,idea,figma" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
 ---
 
 # 🎯 Current Goals
@@ -60,6 +64,8 @@ Where others see errors, I see possibilities.
 ---
 
 # 📌 Featured Projects
+
+Projects where I experiment, learn, and build real solutions.
 
 <p align="center">
 
@@ -94,6 +100,7 @@ Where others see errors, I see possibilities.
     <img src="https://img.shields.io/badge/GitHub-kefito5-black?style=for-the-badge&logo=github" />
   </a>
 </p>
+
 ---
 
 <div align="center">
